@@ -4,6 +4,7 @@
  *              may cause a deadlock.
  * @kind problem
  * @problem.severity error
+ * @security-severity 7.5
  * @precision medium
  * @id java/unreleased-lock
  * @tags reliability

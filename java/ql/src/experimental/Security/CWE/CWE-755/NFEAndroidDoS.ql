@@ -6,6 +6,7 @@
  *              attack.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 7.7
  * @precision medium
  * @id java/android/nfe-local-android-dos
  * @tags security

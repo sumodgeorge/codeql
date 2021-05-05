@@ -6,6 +6,7 @@
  *              stack traces.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 7.5
  * @precision medium
  * @id java/uncaught-servlet-exception
  * @tags security

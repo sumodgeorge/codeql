@@ -5,6 +5,7 @@
  *              scripting vulnerability.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 8.0
  * @precision high
  * @id js/incomplete-html-attribute-sanitization
  * @tags security

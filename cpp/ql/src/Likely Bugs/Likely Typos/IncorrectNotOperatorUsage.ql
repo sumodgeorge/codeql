@@ -6,6 +6,7 @@
  * @kind problem
  * @id cpp/incorrect-not-operator-usage
  * @problem.severity warning
+ * @security-severity 9.8
  * @precision medium
  * @tags security
  *       external/cwe/cwe-480

@@ -5,6 +5,7 @@
  *              the machine pointer size.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 7.5
  * @precision medium
  * @id cpp/suspicious-sizeof
  * @tags reliability

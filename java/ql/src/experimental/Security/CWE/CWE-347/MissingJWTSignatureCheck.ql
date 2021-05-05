@@ -3,6 +3,7 @@
  * @description Not checking the JWT signature allows an attacker to forge their own tokens.
  * @kind problem
  * @problem.severity error
+ * @security-severity 8.1
  * @precision high
  * @id java/missing-jwt-signature-check
  * @tags security

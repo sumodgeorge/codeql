@@ -3,6 +3,7 @@
  * @description Malicious Javascript code could cause arbitrary command execution at the OS level
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id java/unsafe-eval
  * @tags security

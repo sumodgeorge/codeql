@@ -4,6 +4,7 @@
  * @kind problem
  * @id cpp/access-memory-location-after-end-buffer-strncat
  * @problem.severity warning
+ * @security-severity 8.6
  * @precision medium
  * @tags correctness
  *       security

@@ -3,6 +3,7 @@
  * @description Finds uses of encryption algorithms that are weak and obsolete
  * @kind problem
  * @problem.severity warning
+ * @security-severity 7.8
  * @precision high
  * @id cs/weak-encryption
  * @tags security

@@ -4,6 +4,7 @@
  *              may lead to arbitrary code execution.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id java/javaee-expression-injection
  * @tags security

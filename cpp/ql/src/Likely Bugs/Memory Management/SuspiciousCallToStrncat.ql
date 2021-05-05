@@ -4,6 +4,7 @@
  *              as the third argument may result in a buffer overflow.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 7.9
  * @precision medium
  * @id cpp/unsafe-strncat
  * @tags reliability

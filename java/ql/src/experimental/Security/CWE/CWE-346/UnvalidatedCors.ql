@@ -3,6 +3,7 @@
  * @description CORS header is derived from untrusted input, allowing a remote user to control which origins are trusted.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id java/unvalidated-cors-origin-set
  * @tags security

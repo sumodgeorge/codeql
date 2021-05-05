@@ -4,6 +4,7 @@
  *              execute arbitrary code.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 8.8
  * @precision high
  * @id js/unsafe-deserialization
  * @tags security

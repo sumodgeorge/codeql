@@ -5,6 +5,7 @@
  *              URL parsing and verification.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 8.1
  * @precision medium
  * @id java/incorrect-url-verification
  * @tags security

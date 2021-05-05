@@ -4,6 +4,7 @@
  *              malicious XSLT code by the user.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 7.8
  * @precision high
  * @id py/xslt-injection
  * @tags security

@@ -5,6 +5,7 @@
  * @kind problem
  * @id cpp/overflow-destination
  * @problem.severity warning
+ * @security-severity 7.9
  * @precision low
  * @tags reliability
  *       security

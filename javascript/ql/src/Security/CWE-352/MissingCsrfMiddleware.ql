@@ -4,6 +4,7 @@
  *              submit requests on behalf of the user.
  * @kind problem
  * @problem.severity error
+ * @security-severity 7.6
  * @precision high
  * @id js/missing-token-validation
  * @tags security

@@ -4,6 +4,7 @@
  *              unauthorized persons.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 7.4
  * @id cpp/private-cleartext-write
  * @tags security
  *       external/cwe/cwe-359

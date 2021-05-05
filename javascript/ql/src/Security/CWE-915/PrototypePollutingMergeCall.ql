@@ -5,6 +5,7 @@
  *              and possibly escalate to remote code execution or cross-site scripting.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id js/prototype-pollution
  * @tags security

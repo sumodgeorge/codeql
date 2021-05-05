@@ -7,6 +7,7 @@
  * @kind problem
  * @id cpp/errors-after-refactoring
  * @problem.severity warning
+ * @security-severity 8.8
  * @precision medium
  * @tags correctness
  *       security

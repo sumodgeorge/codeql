@@ -4,6 +4,7 @@
  *              a Cross-Site Request Forgery (CSRF) attack.
  * @kind problem
  * @problem.severity error
+ * @security-severity 7.6
  * @precision high
  * @id java/spring-disabled-csrf-protection
  * @tags security

@@ -6,6 +6,7 @@
  * @kind problem
  * @id cpp/late-check-of-function-argument
  * @problem.severity warning
+ * @security-severity 7.8
  * @precision medium
  * @tags correctness
  *       security

@@ -4,6 +4,7 @@
  *              may lead to remote code execution.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id java/mvel-expression-injection
  * @tags security

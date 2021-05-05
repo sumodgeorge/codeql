@@ -4,6 +4,7 @@
  *              user to inject code into the GitHub action.
  * @kind problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id js/actions/injection
  * @tags actions

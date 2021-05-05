@@ -4,6 +4,7 @@
  *              to jsonp injection attacks.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 7.6
  * @precision high
  * @id java/jsonp-injection
  * @tags security

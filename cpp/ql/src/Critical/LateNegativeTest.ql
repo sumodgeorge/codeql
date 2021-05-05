@@ -6,6 +6,7 @@
  * @kind problem
  * @id cpp/late-negative-test
  * @problem.severity warning
+ * @security-severity 8.6
  * @tags reliability
  *       security
  *       external/cwe/cwe-823

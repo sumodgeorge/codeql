@@ -4,6 +4,7 @@
  *              can lead to a cross-site scripting vulnerability.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 8.2
  * @precision high
  * @id js/xss-through-exception
  * @tags security

@@ -4,6 +4,7 @@
  *              insertion of special characters in the strings.
  * @kind problem
  * @problem.severity error
+ * @security-severity 8.4
  * @precision high
  * @id java/concatenated-command-line
  * @tags security

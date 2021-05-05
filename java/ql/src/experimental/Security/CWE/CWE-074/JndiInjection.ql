@@ -4,6 +4,7 @@
  *              object and to execution of arbitrary code.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.4
  * @precision high
  * @id java/jndi-injection
  * @tags security

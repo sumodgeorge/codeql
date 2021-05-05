@@ -5,6 +5,7 @@
  * @kind problem
  * @id cpp/errors-when-using-bit-operations
  * @problem.severity warning
+ * @security-severity 8.8
  * @precision medium
  * @tags correctness
  *       security

@@ -4,6 +4,7 @@
  *              of the identifier to forge the client ip.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.1
  * @precision high
  * @id java/ip-address-spoofing
  * @tags security

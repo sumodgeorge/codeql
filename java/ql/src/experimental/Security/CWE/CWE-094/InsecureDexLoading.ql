@@ -4,6 +4,7 @@
  * an SD card can lead to arbitrary code execution vulnerabilities.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.2
  * @precision high
  * @id java/android-insecure-dex-loading
  * @tags security

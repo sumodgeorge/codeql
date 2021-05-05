@@ -4,6 +4,7 @@
  *              be restricted using a secure resolver or disabling DTD processing.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 8.1
  * @precision low
  * @id cs/insecure-xml-read
  * @tags security

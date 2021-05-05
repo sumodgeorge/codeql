@@ -5,6 +5,7 @@
  * @kind problem
  * @id cpp/operator-precedence-logic-error-when-use-bool-type
  * @problem.severity warning
+ * @security-severity 9.8
  * @precision medium
  * @tags correctness
  *       security

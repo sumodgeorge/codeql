@@ -5,6 +5,7 @@
  * @kind problem
  * @id cpp/access-memory-location-after-end-buffer-strlen
  * @problem.severity warning
+ * @security-severity 8.6
  * @precision medium
  * @tags correctness
  *       security

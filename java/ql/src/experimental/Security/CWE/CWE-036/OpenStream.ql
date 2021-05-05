@@ -4,6 +4,7 @@
  *              can lead to local file disclosure.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 8.1
  * @precision medium
  * @id java/openstream-called-on-tainted-url
  * @tags security

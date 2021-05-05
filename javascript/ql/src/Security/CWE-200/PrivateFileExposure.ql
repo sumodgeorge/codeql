@@ -4,6 +4,7 @@
  *              of private information.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 7.4
  * @id js/exposure-of-private-files
  * @tags security
  *       external/cwe/cwe-200

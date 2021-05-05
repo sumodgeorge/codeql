@@ -5,6 +5,7 @@
  *              incoming data. In the worst case, that may lead to remote code execution.
  * @kind problem
  * @problem.severity error
+ * @security-severity 8.8
  * @precision high
  * @id java/unsafe-deserialization-spring-exporter-in-configuration-class
  * @tags security

@@ -6,6 +6,7 @@
  *              use the width of the base type, leading to misaligned reads.
  * @kind path-problem
  * @problem.severity warning
+ * @security-severity 7.9
  * @precision high
  * @tags correctness
  *       reliability

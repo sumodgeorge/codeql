@@ -3,6 +3,7 @@
  * @description Using user-controlled data to create a template can cause security issues.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 8.4
  * @precision high
  * @id py/template-injection
  * @tags security

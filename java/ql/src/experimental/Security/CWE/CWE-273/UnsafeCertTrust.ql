@@ -6,6 +6,7 @@
  *              the app vulnerable to man-in-the-middle attacks.
  * @kind problem
  * @problem.severity warning
+ * @security-severity 8.2
  * @precision medium
  * @id java/unsafe-cert-trust
  * @tags security

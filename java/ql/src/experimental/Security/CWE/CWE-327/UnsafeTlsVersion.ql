@@ -4,6 +4,7 @@
  *              TLS 1.3 or at least TLS 1.2 should be used.
  * @kind path-problem
  * @problem.severity error
+ * @security-severity 7.8
  * @precision high
  * @id java/unsafe-tls-version
  * @tags security
